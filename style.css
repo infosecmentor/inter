@@ -715,14 +715,11 @@ footer {
         display: none;
     }
 
-
-
-
     /* =============== HEADER ============= */
     header {
         height: fit-content;
         padding: 12rem 0 10rem;
-        display: grid;
+        display:  grid ;
         place-items: center;
     }
 
